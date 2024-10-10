@@ -1,0 +1,23 @@
+:root {
+    --primary-color: #f1f3f4;
+    --secdondary-color: #FFF;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    /* border: 1px solid black; */
+    text-align: center;
+    padding: 10px;
+    background-color: var(--primary-color);
+}
+
+.form-container {
+    border: 1px solid black;
+
+    width: 500px;
+    margin: 5rem auto;
+}
