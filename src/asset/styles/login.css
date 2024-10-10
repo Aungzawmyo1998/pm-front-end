@@ -8,14 +8,14 @@
     padding: 0;
 }
 
-.header {
+#userLogin .header {
     /* border: 1px solid black; */
     text-align: center;
     padding: 10px;
     background-color: var(--primary-color);
 }
 
-.form-container {
+#userLogin .form-container {
     border: 1px solid black;
 
     width: 500px;
